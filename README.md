@@ -1,10 +1,9 @@
 # SDN-Based Firewall using POX Controller
-
-## 📌 Problem Statement
-
-Develop a controller-based firewall to block or allow traffic between hosts.
 ---
+## Problem Statement
+Develop a controller-based firewall to block or allow traffic between hosts.
 
+--- 
 ## 🎯 Objective
 
 This project aims to:
