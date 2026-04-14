@@ -91,16 +91,21 @@ sudo mn --topo single,3 --controller=remote,ip=127.0.0.1,port=6633
 
 ---
 
-## Repository Structure
+## 📁 Repository Structure
+
+```
 SDN-Based-Firewall-using-POX-Controller/
-│── pox/
-│── firewall.py
-│── README.md
-│── screenshots/
-│   ├── allowed_ping.png
-│   ├── blocked_ping.png
-│   ├── logs.png
-│   ├── flows.png
+├── firewall.py
+├── README.md
+└── screenshots/
+    ├── allowed_ping.png
+    ├── blocked_ping.png
+    ├── logs.png
+    └── flows.png
+```
+
+
+---
 
 ## 🌐 Network Topology
 
